@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "5fa0b144e9e59efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "384e036218a9c408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9851c6cd131fd3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General"
+            }
+          },
+          {
+            "id": "c426e9f72261a7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General"
+            }
+          },
+          {
+            "id": "72116662acc91f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Week 1 Info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1 Info"
+            }
+          },
+          {
+            "id": "3bd4a7098c8ebae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astrobotic Main/Components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Components"
+            }
+          },
+          {
+            "id": "bae7d7563b8531e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astrobotic Main/Components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Components"
+            }
+          },
+          {
+            "id": "b809c6f5d035acd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/OpenCV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenCV"
+            }
+          },
+          {
+            "id": "5e9969bdfdd8ac1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Project/Week 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80e5e68e1590a358",
+    "type": "split",
+    "children": [
+      {
+        "id": "8832e8e88e937729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44f28ad687f7c046",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ae40abcad5f607b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "307fe418828b6531",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63db71e715556d00",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c2eadffe9774233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0c1951606e1b20f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notepad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notepad"
+            }
+          },
+          {
+            "id": "05ea93dec5a56386",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notepad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notepad"
+            }
+          },
+          {
+            "id": "cd7d5d66e01aa85e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9dbb924761435f1b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "56ab5399e7e15ff5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notepad.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notepad"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "44f28ad687f7c046",
+  "lastOpenFiles": [
+    "Week 1/Convolution.md",
+    "Week 1/Project/Week 1.md",
+    "Pasted image 20260627230201.png",
+    "Pasted image 20260627224224.png",
+    "Pasted image 20260627224209.png",
+    "Pasted image 20260627222711.png",
+    "Pasted image 20260627215719.png",
+    "Pasted image 20260627215244.png",
+    "Pasted image 20260627213559.png",
+    "Pasted image 20260627210114.png",
+    "Pasted image 20260627205414.png",
+    "Pasted image 20260627204356.png",
+    "Week 1/Untitled.md",
+    "Week 1/Project",
+    "General.md",
+    "Week 1/Week 1 Info.md",
+    "Week 1/Image Filtering & Edge Detection.md",
+    "Week 1/OpenCV.md",
+    "Week 1/Questions.md",
+    "Week 1/Project.md",
+    "Astrobotic Main",
+    "Astrobotic Main/Arm Movement.md",
+    "Astrobotic Main/Components.md",
+    "Astrobotic Main/Questions.md",
+    "Notepad.md",
+    "img",
+    "Welcome.md",
+    "Week 1"
+  ]
+}

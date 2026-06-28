@@ -1,0 +1,2 @@
+- What is decimate object files / decimation?
+- What is a fabric?
